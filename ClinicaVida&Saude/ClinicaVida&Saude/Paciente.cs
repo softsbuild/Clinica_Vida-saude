@@ -18,7 +18,7 @@ namespace ClinicaVida_Saude
 
         public override void ExibirFicha()
         {
-            Console.WriteLine($"[PACIENTE] Cód: {Codigo} | Nome: {Nome} | CPF: {Cpf} | Data Nasc: {DataNascimento: dd/MM/yyyy}")
+            Console.WriteLine($"[PACIENTE] Cód: {Codigo} | Nome: {Nome} | CPF: {Cpf} | Data Nasc: {DataNascimento: dd/MM/yyyy}");
         }
     }
 }
